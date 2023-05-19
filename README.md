@@ -1,29 +1,88 @@
-<h1 align="center">Hi 👋, I'm U Kushal Rao</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<img border-radius="20px" alt="Coding" width="100%" height="300px" src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal1997&label=Profile%20views&color=0e75b6&style=flat" alt="kushal1997" /> </p>
 
-- 🔭 I was working on ["E-Commerce Website"](https://ecommerece-website-codefair-noizy.netlify.app/)
+<h1 align="centre"> 😇 Hello I' m U Kushal Rao  👋</h1>
+<h3 align="centre"> A passionate Front-End Web Developer</h
+<p align="center">Passion to do something innovative makes me think continuously and analysis of my thoughts helps me gain confidence that I can contribute to my organization's growth and attain personal satisfaction realizing that I have done something for the organization.
+<p>
 
-- 🌱 I’m currently learning **React JS**
 
-- 🔭 I was working on ["All Projects in One"](https://my-projects-noizy.netlify.app/)
 
-- 📫 How to reach me **kushalrao103@gmail.com**
+<!--  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+  -->
+ <img align="right" alt="Coding" width="400" height="80%" src = "https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
 
-- 📄 Know about my experiences [https://storied-sfogliatella-2b3acc.netlify.app/](https://storied-sfogliatella-2b3acc.netlify.app/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/u-kushal-rao-53074311a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="u-kushal-rao-53074311a" height="30" width="40" /></a>
+
+
+- 👀 I’m interested in exploring new things
+
+- 🌱 I’m currently learning various new technologies
+
+- 💞️ I’m looking to collaborate with young and dynamic developers
+
+- 👨‍💻 You can know more of me at my **[Portfolio](https://dajitabh123.github.io/)**
+
+- ⚡ Fun fact ***** Love to play Volley Ball *****
+	
+- 📫 How to reach me: *kushalrao103@gmail.com*
+
+
+
+## 🚀 Languages and Tools:
+
+
+<div align="center" style="display:flex; flex-wrap:wrap justify-content:center; align-items: center; width:80%; margin:auto;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+    <a href="https://react.dev/" target="_blank"> <img src="https://img.icons8.com/office/16/react.png" alt="react" style="width:50px"/> </a>
+    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/tailwind_css.png" alt="tailwind_css" style="width:50px"/> </a>
+    <a href="https://webpack.js.org/" target="_blank"> <img src="https://img.icons8.com/color/48/webpack.png" alt="webpack" style="width:50px"/> </a>
+    <a href="https://babeljs.io/" target="_blank"> <img src="https://img.icons8.com/dusk/64/babel.png" alt="babel" 
+    style="width:50px"> </a>
+    <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" style="width:50px"/> </a>
+    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase"
+style="width:50px"/> </a>
+    <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxxq1GRPRGDdHVOrIeMQ2h0MmAKkgkpHeNoHcE6E&s"
+style="width:50px"/> </a>
+</div>
+
+## 📊 My Github Stats
+
+<p align="center">
+    <a href="https://github.com/kushal1997/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kushal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal1997&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+	
+   
 </p>
+<div align="center"> 
+  <br/>
+    <a href="https://github.com/kushal1997/github-readme-stats"><img alt="Kushal Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kushal1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/kushal1997/github-readme-stats"><img alt="Kushal's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kushal1997&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+    
+    
+  <br/>
+	
+</div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  
+  
+ <div>
+<img alt="Kushal's Activity Graph" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kushal1997&theme=2077" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 📊 Connect With Me
+<!-- <h3 align="left">Connect with me:</h3> -->
+<!-- <p align="left">
+<a href="https://twitter.com/@AjitabD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@AjitabD" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Kushal-dash-983b641b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="KushalDash" height="30" width="40" /></a>
+ -->
+<!-- </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/kushalrao1N"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/kushalrao1N" /></a></p><br><br>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kushal1997&show_icons=true&locale=en&layout=compact" alt="kushal1997" /></p>
+	 -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal1997&" alt="kushal1997" /></p>
