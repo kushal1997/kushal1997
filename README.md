@@ -21,9 +21,9 @@
 
 - 💞️ I’m looking to collaborate with young and dynamic developers
 
-- 👨‍💻 You can know more of me at my **[Portfolio](https://dajitabh123.github.io/)**
+- 👨‍💻 You can access all of my Projects Here **[Projects](https://my-projects-noizy.netlify.app)**
 
-- ⚡ Fun fact ***** Love to play Volley Ball *****
+<!-- - ⚡ Fun fact *****  ***** -->
 	
 - 📫 How to reach me: *kushalrao103@gmail.com*
 
@@ -44,8 +44,7 @@
     <a href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" style="width:50px"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/firebase.png" alt="firebase"
 style="width:50px"/> </a>
-    <a href="" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfxxq1GRPRGDdHVOrIeMQ2h0MmAKkgkpHeNoHcE6E&s"
-style="width:50px"/> </a>
+    
 </div>
 
 ## 📊 My Github Stats
