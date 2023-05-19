@@ -1,4 +1,4 @@
-<img border-radius="20px" alt="Coding" width="100%" height="300px" src="https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif">
+<img border-radius="20px" alt="Coding" width="100%" height="300px" src="https://i.imgur.com/1ZvVkDc.gif">
 
 
 <h1 align="centre"> 😇 Hello I' m U Kushal Rao  👋</h1>
