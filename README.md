@@ -2,8 +2,8 @@
 
 
 <h1 align="centre"> 😇 Hello I' m U Kushal Rao  👋</h1>
-<h3 align="centre"> A passionate Front-End Web Developer</h
-<p align="center">Passion to do something innovative makes me think continuously and analysis of my thoughts helps me gain confidence that I can contribute to my organization's growth and attain personal satisfaction realizing that I have done something for the organization.
+<!-- <h3 align="centre"> A passionate Front-End Web Developer</h3> -->
+<p align="center">I'm a budding professional who knows a lot about making computer programs and working with others. I'm good at figuring out what software should do, fixing problems, and making sure different parts of a project work together. I'm skilled at every step of creating software, from planning and writing code to testing and keeping it running smoothly. I'm also good at understanding what users need and finding and fixing issues before they become a problem. I work well with other people who design the look of software, and I focus on making it easy to use. I'm always learning new ways to make better software. I have experience talking to users, writing instructions, and helping with any issues that come up. I'm good at organizing things, motivating others, and leading a team to do their best.
 <p>
 
 
