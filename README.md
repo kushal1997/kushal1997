@@ -21,7 +21,7 @@
 
 - 💞️ I’m looking to collaborate with young and dynamic developers
 
-- 👨‍💻 You can access all of my Projects Here **[Projects](https://my-projects-noizy.netlify.app)**
+- 👨‍💻 Here is my portfolio **[Projects](https://www.noizyboy.cloud/)**
 
 <!-- - ⚡ Fun fact *****  ***** -->
 	
