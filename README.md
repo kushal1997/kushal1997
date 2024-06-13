@@ -21,7 +21,7 @@
 
 - 💞️ I’m looking to collaborate with young and dynamic developers
 
-- 👨‍💻 Here is my portfolio **[Projects](https://www.noizyboy.cloud/)**
+- 👨‍💻 Here is my  **[portfolio](https://www.noizyboy.cloud/)**
 
 <!-- - ⚡ Fun fact *****  ***** -->
 	
