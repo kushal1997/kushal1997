@@ -56,10 +56,11 @@ style="width:50px"/> </a>
 	
    
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=kushal1997&theme=radical)](https://git.io/streak-stats)
+
 
 <p align="center">
-	
+	<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+
 </p>
 <div align="center"> 
   <br/>
