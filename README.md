@@ -50,19 +50,16 @@ style="width:50px"/> </a>
 ## 📊 My Github Stats
 
 <p align="center">
-    <a href="https://github.com/kushal1997/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kushal streak" src="https://github-readme-streak-stats.herokuapp.com/?user=kushal1997&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://git.io/streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Kushal streak" 
+        src="https://streak-stats.demolab.com?user=kushal1997&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
-	
-   
 </p>
-
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=kushal1997&show_icons=true&theme=radical" alt="Kushal Stats" />
-
-
+    <img src="https://streak-stats.demolab.com?user=kushal1997&theme=radical" alt="Kushal Streak" />
 </p>
+
 <div align="center"> 
   <br/>
     <a href="https://github.com/kushal1997/github-readme-stats"><img alt="Kushal Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kushal1997&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
