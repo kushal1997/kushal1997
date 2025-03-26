@@ -57,8 +57,10 @@ style="width:50px"/> </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kushal1997&theme=radical" alt="Kushal Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal1997&theme=radical" alt="Kushal Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kushal1997&theme=radical&no-frame=true&no-bg=true&column=7" alt="GitHub Trophy" />
+<img src="https://github-readme-stats.vercel.app/api?username=kushal1997&show_icons=true&count_private=true&theme=radical" alt="Kushal Stats" />
+<img src="https://streak-stats.demolab.com/?user=kushal1997&theme=radical&cache=none" alt="Kushal Streak" />
+
 
 
 
