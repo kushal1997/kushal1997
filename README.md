@@ -58,6 +58,8 @@ style="width:50px"/> </a>
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=kushal1997&theme=radical" alt="Kushal Streak" />
+	<img src="https://streak-stats.demolab.com?user=kushal1997&theme=radical&cache=none" alt="Kushal Streak" />
+
 </p>
 
 <div align="center"> 
