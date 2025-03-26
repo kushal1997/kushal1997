@@ -59,7 +59,8 @@ style="width:50px"/> </a>
 
 
 <p align="center">
-	<img src="https://streak-stats.demolab.com?user=kushal1997&theme=radical" alt="Kushal Streak" />
+	<img src="https://github-readme-stats.vercel.app/api?username=kushal1997&show_icons=true&theme=radical" alt="Kushal Stats" />
+
 
 </p>
 <div align="center"> 
