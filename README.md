@@ -58,6 +58,8 @@ style="width:50px"/> </a>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kushal1997&theme=radical" alt="Kushal Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kushal1997&theme=radical" alt="Kushal Stats" />
+
 
 
 </p>
