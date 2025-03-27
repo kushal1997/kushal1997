@@ -58,7 +58,7 @@ style="width:50px"/> </a>
 
 <p align="center">
  <a href="https://git.io/streak-stats">
-	<img src="https://streak-stats.demolab.com?user=kushal1997&theme=tokyonight" alt="GitHub Streak" />
+	<img src="https://streak-stats.demolab.com?user=kushal1997&theme=tokyonight&mode=daily" alt="GitHub Streak" />
  </a>
 </p>
 
