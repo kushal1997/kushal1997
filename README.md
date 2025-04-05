@@ -55,13 +55,13 @@ style="width:50px"/> </a>
         src="https://streak-stats.demolab.com?user=kushal1997&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
-<p align="center">
+<!-- 
+ <p align="center">
  <a href="https://git.io/streak-stats">
 	<img src="https://streak-stats.demolab.com?user=kushal1997&theme=tokyonight&mode=daily" alt="GitHub Streak" />
  </a>
 </p>
-
+ -->
 
 <div align="center"> 
   <br/>
