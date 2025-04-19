@@ -28,6 +28,7 @@
 - 📫 How to reach me: *kushalrao103@gmail.com*
 
 
+<img src="https://komarev.com/ghpvc/?username=kushal1997"/>
 
 ## 🚀 Languages and Tools:
 
@@ -46,7 +47,6 @@
 style="width:50px"/> </a>
     
 </div>
-<img src="https://komarev.com/ghpvc/?username=kushal1997"/>
 
 ## 📊 My Github Stats
 
