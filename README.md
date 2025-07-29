@@ -27,40 +27,83 @@
 
 ### 🧑‍💻 **Tech Stack Overview**
 
+
+#### 💻 Web & App Development  
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank"><img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" alt="HTML5"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" alt="CSS3"/></a>
+  <a href="https://tailwindcss.com/docs" target="_blank"><img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat" alt="Tailwind CSS"/></a>
+  <a href="https://getbootstrap.com/docs" target="_blank"><img src="https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat" alt="Bootstrap"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" alt="TypeScript"/></a>
+  <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat" alt="React"/></a>
+  <a href="https://redux.js.org/introduction/getting-started" target="_blank"><img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat" alt="Redux"/></a>
+  <a href="https://vitejs.dev/guide/" target="_blank"><img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" alt="Vite"/></a>
+  <a href="https://reactnative.dev/docs/getting-started" target="_blank"><img src="https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat" alt="React Native"/></a>
+  <a href="https://docs.expo.dev/" target="_blank"><img src="https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat" alt="Expo"/></a>
+  <a href="https://flask.palletsprojects.com/en/latest/" target="_blank"><img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat" alt="Flask"/></a>
+</p>
+
+
+
+#### 🛠️ Backend & APIs  
+<p ![![>
+  <a href="https://nodejs.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" alt="Node.js"/></a>
+  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" alt="Express"/></a>
+  <a href="https://docs.python.org/3/" target="_blank"><img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" alt="Python"/></a>
+  <a href="https://www.passportjs.org/docs/" target="_blank"><img src="https://img.shields.io/badge/-Passport.js-34E1FC?logo=passport&logoColor=white&style=flat" alt="Passport.js"/></a>
+  <a href="https://jwt.io/introduction/" target="_blank"><img src="https://img.shields.io/badge/-JWT-000000?logo=json-web-token&logoColor=white&style=flat" alt="JWT"/></a>
+  <a href="https://swagger.io/resources/articles/best-practices/" target="_blank"><img src="https://img.shields.io/badge/-REST_API-61DAFB?logo=swagger&logoColor=white&style=flat" alt="REST API"/></a>
+  <a href="https://docs.npmjs.com/" target="_blank"><img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" alt="NPM"/></a>
+  <a href="https://learning.postman.com/docs/getting-started/introduction/" target="_blank"><img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" alt="Postman"/></a>
+</p>
+
 <hr>
 
-#### 💻 Web & App Development
+#### ☁️ Cloud, DevOps & Infra  
+<p ![![>
+  <a href="https://docs.aws.amazon.com/" target="_blank"><img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat" alt="AWS"/></a>
+  <a href="https://docs.docker.com/" target="_blank"><img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker"/></a>
+  <a href="https://kubernetes.io/docs/home/" target="_blank"><img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes"/></a>
+  <a href="https://helm.sh/docs/" target="_blank"><img src="https://img.shields.io/badge/-Helm-0F1010?logo=helm&logoColor=white&style=flat" alt="Helm"/></a>
+  <a href="https://argo-cd.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/-Argo_CD-00457C?logo=argo&logoColor=white&style=flat" alt="Argo CD"/></a>
+  <a href="https://www.jenkins.io/doc/" target="_blank"><img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat" alt="Jenkins"/></a>
+  <a href="https://learn.hashicorp.com/terraform" target="_blank"><img src="https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat" alt="Terraform"/></a>
+  <a href="https://docs.ansible.com/" target="_blank"><img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" alt="Ansible"/></a>
+  <a href="https://docs.github.com/en/actions" target="_blank"><img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat" alt="GitHub Actions"/></a>
+  <a href="https://docs.cpanel.net/" target="_blank"><img src="https://img.shields.io/badge/-cPanel-003F8E?logo=cpanel&logoColor=white&style=flat" alt="cPanel"/></a>
+  <a href="https://nginx.org/en/docs/" target="_blank"><img src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat" alt="Nginx"/></a>
+</p>
 
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)](https://tailwindcss.com/docs)  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=flat)](https://getbootstrap.com/docs) [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)](https://www.typescriptlang.org/docs/)  [![React](https://img.shields.io/badge/-React-20232A?logo=react&logoColor=61DAFB&style=flat)](https://reactjs.org/docs/getting-started.html)  [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat)](https://redux.js.org/introduction/getting-started)  [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)](https://vitejs.dev/guide/)  [![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black&style=flat)](https://reactnative.dev/docs/getting-started)  [![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white&style=flat)](https://docs.expo.dev/)  [![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)](https://flask.palletsprojects.com/en/latest/)
+
+#### 📦 Database & Monitoring  
+<p ![![>
+  <a href="https://docs.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" alt="MongoDB"/></a>
+  <a href="https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/" target="_blank"><img src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat" alt="DynamoDB"/></a>
+  <a href="https://docs.aws.amazon.com/cloudwatch/" target="_blank"><img src="https://img.shields.io/badge/-CloudWatch-FF9900?logo=amazoncloudwatch&logoColor=white&style=flat" alt="CloudWatch"/></a>
+</p>
 
 
-#### 🛠️ Backend & APIs
 
-[![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)](https://nodejs.org/en/docs/)  [![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat)](https://expressjs.com/)  [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)](https://docs.python.org/3/)  [![Passport.js](https://img.shields.io/badge/-Passport.js-34E1FC?logo=passport&logoColor=white&style=flat)](https://www.passportjs.org/docs/)  [![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-token&logoColor=white&style=flat)](https://jwt.io/introduction/)  [![REST API](https://img.shields.io/badge/-REST_API-61DAFB?logo=swagger&logoColor=white&style=flat)](https://swagger.io/resources/articles/best-practices/)  [![NPM](https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat)](https://docs.npmjs.com/)  [![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)](https://learning.postman.com/docs/getting-started/introduction/)
+#### 🔄 CI/CD & System  
+<p ![![>
+  <a href="https://git-scm.com/doc" target="_blank"><img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" alt="Git"/></a>
+  <a href="https://docs.github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" alt="GitHub"/></a>
+  <a href="https://www.kernel.org/doc/html/latest/" target="_blank"><img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat" alt="Linux"/></a>
+  <a href="https://www.gnu.org/software/bash/manual/bash.html" target="_blank"><img src="https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat" alt="Shell Scripting"/></a>
+</p>
 
 <hr>
 
-#### ☁️ Cloud, DevOps & Infra
+#### 🤖 AI & Generative Tools  
+<p ![![>
+  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://img.shields.io/badge/-ChatGPT-00A67E?logo=chatgpt&logoColor=white&style=flat" alt="ChatGPT"/></a>
+  <a href="https://docs.github.com/en/copilot" target="_blank"><img src="https://img.shields.io/badge/-GitHub_Copilot-3D9BFF?logo=github-copilot&logoColor=white&style=flat" alt="GitHub Copilot"/></a>
+  <a href="https://platform.openai.com/docs" target="_blank"><img src="https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat" alt="OpenAI"/></a>
+  <a href="https://platform.openai.com/docs/guides/agents" target="_blank"><img src="https://img.shields.io/badge/-AI_Agents-424242?logo=robot&logoColor=white&style=flat" alt="AI Agents"/></a>
+  <a href="https://developers.generativeai.google/reference/rest" target="_blank"><img src="https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=flat" alt="Gemini"/></a>
+</p>
 
-[![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat)](https://docs.aws.amazon.com/)  [![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)](https://docs.docker.com/)  [![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat)](https://kubernetes.io/docs/home/)  [![Helm](https://img.shields.io/badge/-Helm-0F1010?logo=helm&logoColor=white&style=flat)](https://helm.sh/docs/)  [![Argo CD](https://img.shields.io/badge/-Argo_CD-00457C?logo=argo&logoColor=white&style=flat)](https://argo-cd.readthedocs.io/)  [![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=flat)](https://www.jenkins.io/doc/)  [![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)](https://learn.hashicorp.com/terraform)  [![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat)](https://docs.ansible.com/)  [![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat)](https://docs.github.com/en/actions)  [![cPanel](https://img.shields.io/badge/-cPanel-003F8E?logo=cpanel&logoColor=white&style=flat)](https://docs.cpanel.net/)  [![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat)](https://nginx.org/en/docs/)
-
-
-
-#### 📦 Database & Monitoring
-
-[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)](https://docs.mongodb.com/)  [![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazondynamodb&logoColor=white&style=flat)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/)  [![CloudWatch](https://img.shields.io/badge/-CloudWatch-FF9900?logo=amazoncloudwatch&logoColor=white&style=flat)](https://docs.aws.amazon.com/cloudwatch/)
-
-
-
-#### 🔄 CI/CD & System
-
-[![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)](https://git-scm.com/doc)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)](https://docs.github.com/)  [![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)](https://www.kernel.org/doc/html/latest/)  [![Shell Scripting](https://img.shields.io/badge/-Shell_Scripting-4EAA25?logo=gnu-bash&logoColor=white&style=flat)](https://www.gnu.org/software/bash/manual/bash.html)
-
-<hr>
-
-#### 🤖 AI & Generative Tools
-
-[![ChatGPT](https://img.shields.io/badge/-ChatGPT-00A67E?logo=chatgpt&logoColor=white&style=flat)](https://openai.com/chatgpt)  [![GitHub Copilot](https://img.shields.io/badge/-GitHub_Copilot-3D9BFF?logo=github-copilot&logoColor=white&style=flat)](https://docs.github.com/en/copilot)  [![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white&style=flat)](https://platform.openai.com/docs)  [![AI Agents](https://img.shields.io/badge/-AI_Agents-424242?logo=robot&logoColor=white&style=flat)](https://platform.openai.com/docs/guides/agents)  [![Gemini](https://img.shields.io/badge/-Gemini-4285F4?logo=google&logoColor=white&style=flat)](https://developers.generativeai.google/reference/rest)  
 
 
 
